@@ -1,0 +1,12 @@
+.input_alert{
+    color: #f64747;
+    padding-top: 5px;
+    margin-bottom: -5px;
+    font-size: 12px;
+    letter-spacing: 1px;
+}
+.input_complete{
+    color: #17af3d;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
